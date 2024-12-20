@@ -1,0 +1,5 @@
+.cdk.staging/
+cdk.out/
+
+*.ts
+!*.d.ts
